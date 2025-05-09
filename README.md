@@ -1,4 +1,4 @@
-# 🏆 Kaggle
+# 🏆 Kaggle Started Kit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Maintained by @pesnik](https://img.shields.io/badge/Maintained%20by-@pesnik-blueviolet)
@@ -30,7 +30,7 @@ A battle-tested template for systematic Kaggle competitions and data science pro
 ## 🏗 Full Repository Structure
 
 ```bash
-kaggle/
+kaggle-starter-kit/
 │
 ├── .github/                  # GitHub Automation
 │   └── workflows/            # CI/CD pipelines
@@ -201,7 +201,7 @@ uv pip install -r requirements.txt
 1. **Fork & Clone**
    ```bash
    git clone https://github.com/pesnik/kaggle-starter-kit.git
-   cd kaggle
+   cd kaggle-starter-kit
    ```
 
 2. **Set Up Environment with `uv`**
