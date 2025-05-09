@@ -10,7 +10,7 @@ A battle-tested template for systematic Kaggle competitions and data science pro
 ```bash
 # 🚀 Quick Start
 1. Fork this repo
-2. Clone your fork: git clone https://github.com/pesnik/kaggle.git
+2. Clone your fork: git clone https://github.com/pesnik/kaggle-starter-kit.git
 3. Install uv: pip install uv
 4. Create virtual environment: uv venv
 5. Activate environment: source .venv/bin/activate (Linux/macOS) or .venv\Scripts\activate (Windows)
@@ -200,7 +200,7 @@ uv pip install -r requirements.txt
 
 1. **Fork & Clone**
    ```bash
-   git clone https://github.com/pesnik/kaggle.git
+   git clone https://github.com/pesnik/kaggle-starter-kit.git
    cd kaggle
    ```
 
